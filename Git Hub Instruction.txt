@@ -1,0 +1,12 @@
+git status
+//kade ima promqna
+
+git add --all
+//dobavqne na sichki failove
+
+
+git commit -m "vzehme prezentaciata intro programming"
+//slagate suobshtenia na komita
+
+git push origin master
+//slgate go na servera v github.com
